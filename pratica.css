@@ -1,0 +1,30 @@
+
+.linha{
+    display: flex;
+    margin: auto auto auto auto;
+    width: 500px;
+}
+.campoNome{
+    display: inline-block;
+}
+
+select{
+    width: 200px;
+}
+label{
+    display: block;
+}
+input{
+    width: 200px;  
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
